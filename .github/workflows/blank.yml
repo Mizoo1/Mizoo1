@@ -1,4 +1,4 @@
-name: Upload Folder Content
+name: Display Generated Content
 
 on:
   push:
@@ -21,17 +21,14 @@ jobs:
       - name: Prepare Dist Directory
         run: mkdir dist
 
-      # Kopiere die generierten Dateien in das 'dist'-Verzeichnis (beispielhaft)
+      # Kopiere die generierten Dateien in das 'dist'-Verzeichnis
       - name: Copy Files to Dist
-        run: cp -r ./build/* dist/
+        run: cp -r ./output/* dist/
 
       # Anzeigen des Inhalts des 'dist'-Verzeichnisses zur Überprüfung
       - name: Show Dist Contents
         run: ls dist
 
-      # Hochladen des 'dist'-Verzeichnisinhalts als Artefakt
-      - name: Upload Dist Folder
-        uses: actions/upload-artifact@v2
-        with:
-          name: dist-artifact
-          path: ./dist
+      # Anzeigen des Inhalts der generierten Datei
+      - name: Display Generated Content
+        run: cat dist/generated_content.txt
