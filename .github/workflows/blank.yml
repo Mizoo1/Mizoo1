@@ -14,12 +14,25 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v2
 
-      # Führe deine Build-Schritte hier aus, um den gewünschten Inhalt im 'dist'-Verzeichnis zu erzeugen
+      # Führe deine Build-Schritte hier aus, um den gewünschten Inhalt im 'output'-Verzeichnis zu erzeugen
       # Beispiel: Kompilieren, Tests durchführen, etc.
 
       # Erstelle ein Verzeichnis, in das die generierten Dateien kopiert werden
       - name: Prepare Dist Directory
         run: mkdir dist
+
+      # Führe die Build-Schritte aus, um die generierten Dateien im 'output'-Verzeichnis zu erstellen
+      - name: Build Content
+        run: |
+          # Hier solltest du deine Build-Schritte ausführen, die die gewünschten Dateien im 'output'-Verzeichnis erzeugen
+          # Beispiel: Kompilieren, Erzeugen von Artefakten, etc.
+          mkdir output
+          echo "Hallo Welt" > output/generated_file.txt
+          # Hier kannst du die Befehle einfügen, die deine generierten Dateien erzeugen
+
+      # Anzeigen des Inhalts des 'output'-Verzeichnisses zur Überprüfung
+      - name: Show Output Contents
+        run: ls output
 
       # Kopiere die generierten Dateien in das 'dist'-Verzeichnis
       - name: Copy Files to Dist
@@ -31,4 +44,4 @@ jobs:
 
       # Anzeigen des Inhalts der generierten Datei
       - name: Display Generated Content
-        run: cat dist/generated_content.txt
+        run: cat dist/generated_file.txt
