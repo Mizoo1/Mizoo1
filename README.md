@@ -31,7 +31,7 @@ Anweisungen:
 1. Öffne den Screenshot [hier](https://example.com/path/to/screenshot.png), um das Snake-Spiel zu sehen.
 2. Führe das Spiel lokal auf deinem Computer aus, indem du den Code aus der Datei "snake.html" verwendest.
 
-```html
+```java
 <!DOCTYPE html>
 <html>
 <head>
