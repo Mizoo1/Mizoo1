@@ -25,4 +25,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mizoo1&" alt="mizoo1" /></p>
 
 
-
+```bash
+python game.py
