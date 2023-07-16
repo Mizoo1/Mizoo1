@@ -16,8 +16,6 @@ jobs:
       # Schritte zum Repo hinzufügen, damit der Job darauf zugreifen kann
       - name: Checkout repository
         uses: actions/checkout@v2
-        with:
-          node-version: '16' # Aktualisiere auf Node.js Version 16
 
       # Schritte zur Erzeugung der "Snake"-Animation
       - name: Generate Snake
