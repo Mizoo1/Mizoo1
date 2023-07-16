@@ -24,4 +24,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mizoo1&" alt="mizoo1" /></p>
 
-![Snake animation](https://github.com/mishmanners/mishmanners/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Mizoo1/Mizoo1/blob/output/github-contribution-grid-snake.svg)
