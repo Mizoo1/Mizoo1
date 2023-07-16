@@ -45,3 +45,10 @@ jobs:
       # Anzeigen des Inhalts der generierten Datei
       - name: Display Generated Content
         run: cat dist/generated_file.txt
+
+      # Schritt zum Einfügen des generierten Inhalts in die Haupt-README-Datei
+      - name: Insert Generated Content into README
+        run: |
+          echo "### Generierter Inhalt:" >> README.md
+          cat dist/generated_file.txt >> README.md
+          # Füge hier weitere Befehle ein, um den gesamten generierten Inhalt einzufügen
