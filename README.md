@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muaaz</h1>
+<h1 align="center">Hi 👋, ich bin es Muaaz</h1>
 <h3 align="center">Ein leidenschaftlicher Backend-Entwickler aus Deutschland</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mizoo1&label=Profile%20views&color=0e75b6&style=flat" alt="mizoo1" /> </p>
