@@ -23,7 +23,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mizoo1&show_icons=true&locale=en" alt="mizoo1" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mizoo1&" alt="mizoo1" /></p>
-
-
-```bash
-python game.py
