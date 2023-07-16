@@ -24,26 +24,34 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mizoo1&" alt="mizoo1" /></p>
 
-<h1>Willkommen zum Zahlenratespiel!</h1>
-<p>Ich habe eine Zahl zwischen 1 und 100 ausgewählt. Versuche sie zu erraten.</p>
-<input type="number" id="guess" placeholder="Gib deine Vermutung ein">
-<button onclick="checkGuess()">Überprüfen</button>
-<p id="message"></p>
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Zahlenratespiel</title>
+</head>
+<body>
+  <h1>Willkommen zum Zahlenratespiel!</h1>
+  <p>Ich habe eine Zahl zwischen 1 und 100 ausgewählt. Versuche sie zu erraten.</p>
+  <input type="number" id="guess" placeholder="Gib deine Vermutung ein">
+  <button onclick="checkGuess()">Überprüfen</button>
+  <p id="message"></p>
 
-<script>
-  const secretNumber = Math.floor(Math.random() * 100) + 1;
-  let attempts = 0;
+  <script>
+    const secretNumber = Math.floor(Math.random() * 100) + 1;
+    let attempts = 0;
 
-  function checkGuess() {
-    const userGuess = parseInt(document.getElementById("guess").value);
-    attempts++;
+    function checkGuess() {
+      const userGuess = parseInt(document.getElementById("guess").value);
+      attempts++;
 
-    if (userGuess === secretNumber) {
-      document.getElementById("message").innerText = `Glückwunsch! Du hast die Zahl ${secretNumber} in ${attempts} Versuchen erraten!`;
-    } else if (userGuess < secretNumber) {
-      document.getElementById("message").innerText = "Die Zahl ist größer als deine Vermutung. Versuche es erneut.";
-    } else {
-      document.getElementById("message").innerText = "Die Zahl ist kleiner als deine Vermutung. Versuche es erneut.";
+      if (userGuess === secretNumber) {
+        document.getElementById("message").innerText = `Glückwunsch! Du hast die Zahl ${secretNumber} in ${attempts} Versuchen erraten!`;
+      } else if (userGuess < secretNumber) {
+        document.getElementById("message").innerText = "Die Zahl ist größer als deine Vermutung. Versuche es erneut.";
+      } else {
+        document.getElementById("message").innerText = "Die Zahl ist kleiner als deine Vermutung. Versuche es erneut.";
+      }
     }
-  }
-</script>
+  </script>
+</body>
+</html>
