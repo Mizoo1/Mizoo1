@@ -24,34 +24,16 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mizoo1&" alt="mizoo1" /></p>
 
-<!DOCTYPE html>
-<html>
-<head>
-  <title>Zahlenratespiel</title>
-</head>
-<body>
-  <h1>Willkommen zum Zahlenratespiel!</h1>
-  <p>Ich habe eine Zahl zwischen 1 und 100 ausgewählt. Versuche sie zu erraten.</p>
-  <input type="number" id="guess" placeholder="Gib deine Vermutung ein">
-  <button onclick="checkGuess()">Überprüfen</button>
-  <p id="message"></p>
 
-  <script>
-    const secretNumber = Math.floor(Math.random() * 100) + 1;
-    let attempts = 0;
+## Zahlenratespiel
 
-    function checkGuess() {
-      const userGuess = parseInt(document.getElementById("guess").value);
-      attempts++;
+![Zahlenratespiel Screenshot](https://example.com/path/to/screenshot.png)
 
-      if (userGuess === secretNumber) {
-        document.getElementById("message").innerText = `Glückwunsch! Du hast die Zahl ${secretNumber} in ${attempts} Versuchen erraten!`;
-      } else if (userGuess < secretNumber) {
-        document.getElementById("message").innerText = "Die Zahl ist größer als deine Vermutung. Versuche es erneut.";
-      } else {
-        document.getElementById("message").innerText = "Die Zahl ist kleiner als deine Vermutung. Versuche es erneut.";
-      }
-    }
-  </script>
-</body>
-</html>
+Ich habe auch ein lustiges Zahlenratespiel erstellt! Versuche die geheime Zahl zwischen 1 und 100 zu erraten.
+
+Anweisungen:
+1. Öffne den Screenshot [hier](https://example.com/path/to/screenshot.png), um den Spielablauf zu sehen.
+2. Führe das Spiel lokal auf deinem Computer aus, indem du den Code aus der Datei "index.html" verwendest.
+
+```html
+<!-- Füge den Code des Zahlenratespiels hier ein -->
