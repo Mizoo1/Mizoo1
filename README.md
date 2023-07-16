@@ -25,15 +25,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mizoo1&" alt="mizoo1" /></p>
 
 
-## Zahlenratespiel
-
-![Zahlenratespiel Screenshot](https://example.com/path/to/screenshot.png)
-
-Ich habe auch ein lustiges Zahlenratespiel erstellt! Versuche die geheime Zahl zwischen 1 und 100 zu erraten.
-
-Anweisungen:
-1. Öffne den Screenshot [hier](https://example.com/path/to/screenshot.png), um den Spielablauf zu sehen.
-2. Führe das Spiel lokal auf deinem Computer aus, indem du den Code aus der Datei "index.html" verwendest.
-
-```html
-<!-- Füge den Code des Zahlenratespiels hier ein -->
+(https://digitalheros.me/login)https://digitalheros.me/login
