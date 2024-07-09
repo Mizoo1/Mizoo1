@@ -16,7 +16,8 @@ jobs:
         uses: Platane/snk@v3.0.0
         with:
           github_user_name: Mizoo1
-          outputs: dist/snake.svg
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
 
       - name: Push Snake to the output branch
         uses: ad-m/github-push-action@v0.6.0
