@@ -16,7 +16,7 @@
 - 🌱 Constantly learning and exploring new technologies
 - 👯 Open to collaborate on exciting projects
 - 💬 Ask me about **React, Python, Java, Spring Boot, Django**
-- 📫 How to reach me: **[Your Email]**
+- 📫 How to reach me: **muaaz@bdear.info**
 - ⚡ Fun fact: I love solving complex problems with elegant code
 
 ## 🛠️ Tech Stack
