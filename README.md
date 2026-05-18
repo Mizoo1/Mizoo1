@@ -57,13 +57,12 @@ Leaflet map, and a server-side PDF export of the résumé via WeasyPrint.
 
 <br />
 
+<h6>— A YEAR ON THIS PROFILE</h6>
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=Mizoo1&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0a0a0a&title_color=d4ff00&icon_color=d4ff00&text_color=f5f3ef&hide=issues" />
-  <img alt="Mizoo1 GitHub stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mizoo1&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=556b00&icon_color=556b00&text_color=2a2a2a&hide=issues" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mizoo1&layout=compact&hide_border=true&langs_count=8&bg_color=0a0a0a&title_color=d4ff00&text_color=f5f3ef" />
-  <img alt="Top languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mizoo1&layout=compact&hide_border=true&langs_count=8&title_color=556b00&text_color=2a2a2a" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mizoo1/Mizoo1/output/github-snake-editorial.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mizoo1/Mizoo1/output/github-snake.svg" />
+  <img alt="Snake eating my GitHub contributions" src="https://raw.githubusercontent.com/Mizoo1/Mizoo1/output/github-snake.svg" />
 </picture>
 
 <br /><br />
