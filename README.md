@@ -44,7 +44,7 @@ EU-hosted on Firestore (europe-west3) with PITR backups, GDPR-compliant
 (DSFA, AVV, Verarbeitungsverzeichnis), role-based access, and blue-green
 deploys via GitHub Actions.
 
-**[bdear.info](https://bdear.info)** &nbsp;·&nbsp; <sub>`PORTFOLIO`</sub> &nbsp;·&nbsp; [source](https://github.com/Mizoo1/mywebsite)<br />
+**[bdear.info](https://muaaz.bdear.info)** &nbsp;·&nbsp; <sub>`PORTFOLIO`</sub> &nbsp;·&nbsp; [source](https://github.com/Mizoo1/mywebsite)<br />
 Personal site and interactive CV. Flask + Jinja with a custom editorial
 front-end — grain overlay, custom cursor, animated SVG focus visuals,
 Leaflet map, and a server-side PDF export of the résumé via WeasyPrint.
