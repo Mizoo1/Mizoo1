@@ -6,8 +6,8 @@
 
 <h1>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fraunces&weight=400&size=48&duration=3500&pause=1500&color=F5F3EF&width=600&lines=Muaaz+Bdear;Data+Engineer;Bremen" />
-    <img alt="Muaaz Bdear — Data Engineer — Bremen" src="https://readme-typing-svg.demolab.com?font=Fraunces&weight=400&size=48&duration=3500&pause=1500&color=0A0A0A&width=600&lines=Muaaz+Bdear;Data+Engineer;Bremen" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fraunces&weight=400&size=48&duration=3500&pause=1500&color=F5F3EF&width=600&height=80&lines=Muaaz+Bdear;Data+Engineer;Bremen" />
+    <img alt="Muaaz Bdear — Data Engineer — Bremen" src="https://readme-typing-svg.demolab.com?font=Fraunces&weight=400&size=48&duration=3500&pause=1500&color=0A0A0A&width=600&height=80&lines=Muaaz+Bdear;Data+Engineer;Bremen" />
   </picture>
 </h1>
 
