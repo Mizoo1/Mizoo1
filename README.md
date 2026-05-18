@@ -1,109 +1,71 @@
-# 👋 Hi, I'm Mizoo
-### Backend Developer | Data Engineer | Software Engineer
+<!--
+  Profile README · Muaaz Bdear
+  Editorial style matching bdear.info — dark canvas, Fraunces display,
+  Space Grotesk body, JetBrains Mono labels, acid-green accent #d4ff00.
+-->
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Backend+Developer;Data+Engineer;Building+scalable+data+pipelines" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mizoo1&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Mizoo1?label=Followers&style=flat-square&color=blue" alt="GitHub followers" />
-</p>
-
-## 🚀 About Me
-
-- 🔭 Currently working on backend services and data engineering pipelines
-- 🌱 Constantly learning and exploring new technologies
-- 👯 Open to collaborate on exciting projects
-- 💬 Ask me about **Python, Java, Spring Boot, Django, Data Pipelines**
-- 📫 How to reach me: **muaaz@bdear.info**
-- ⚡ Fun fact: I love solving complex problems with elegant code
-
-## 🛠️ Tech Stack
-
-### Backend
 <p align="left">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/-Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fraunces&weight=300&size=64&duration=4000&pause=99999&color=F5F3EF&center=false&vCenter=false&width=600&height=80&lines=Muaaz+Bdear" />
+    <img alt="Muaaz Bdear" src="https://readme-typing-svg.demolab.com?font=Fraunces&weight=300&size=64&duration=4000&pause=99999&color=0A0A0A&center=false&vCenter=false&width=600&height=80&lines=Muaaz+Bdear" />
+  </picture>
 </p>
 
-### Data Engineering
-<p align="left">
-  <img src="https://img.shields.io/badge/-Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark" />
-  <img src="https://img.shields.io/badge/-Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Apache Airflow" />
-  <img src="https://img.shields.io/badge/-Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Apache Kafka" />
-  <img src="https://img.shields.io/badge/-dbt-FF694A?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt" />
-  <img src="https://img.shields.io/badge/-BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white" alt="BigQuery" />
-  <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-</p>
+`DATA ENGINEER · BREMEN · DE`
 
-### Database & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
+<br />
 
-### Specialized Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/-MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB" />
-  <img src="https://img.shields.io/badge/-Vivado-F68D2E?style=for-the-badge&logo=xilinx&logoColor=white" alt="Vivado" />
-  <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-</p>
+> Engineering data systems @ **UZE-Mobility GmbH** — DevOps on AWS & GCP, data
+> processing, real-time visualisation.
+> Studying **Komplexe Softwaresysteme** (M.Sc., HSB) and **Data Science**
+> (M.Sc., FernUni Hagen).
+> Focus on **data engineering**, **security**, and **AI**.
 
-## 📊 GitHub Analytics
+<br />
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mizoo1&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mizoo1&layout=compact&langs_count=8&theme=algolia"/>
-</p>
+###### — STACK
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mizoo1&theme=algolia" alt="Mizoo's GitHub Streak" />
-</p>
+```text
+Languages   Python · Java · JavaScript · Dart · C# · C++
+Backend     Flask · Django · Spring Boot · FastAPI · Node.js
+Data        AWS · GCP · Grafana · Looker · Apache Superset · Mapbox · Deck.GL · Kepler.GL
+Frontend    React · Angular · Flutter · Thymeleaf
+Tooling     Docker · Linux · MATLAB · Simulink · Vivado · LaTeX
+```
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mizoo1&theme=algolia" alt="Mizoo's Detailed GitHub Stats" />
-</p>
+<br />
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mizoo1&theme=algolia" alt="Productive Time" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mizoo1&theme=algolia" alt="Repos per Language" />
-</div>
+###### — SELECTED WORK
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mizoo1&theme=algolia&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</p>
+**[KidLog](https://kidlog.de)** &nbsp;·&nbsp; <sub>`MULTI-TENANT SAAS`</sub>
+Documentation platform for German youth-welfare providers (ambulante
+Kinder- und Jugendhilfe). Solo build in a Turborepo + pnpm monorepo.
+EU-hosted on Firestore (europe-west3) with PITR backups, GDPR-compliant
+(DSFA, AVV, Verarbeitungsverzeichnis), role-based access, and blue-green
+deploys via GitHub Actions.
 
-## 📈 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mizoo1&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area=true&hide_border=true" alt="Contribution Graph" />
-</p>
+**[bdear.info](https://bdear.info)** &nbsp;·&nbsp; <sub>`PORTFOLIO · [SOURCE](https://github.com/Mizoo1/mywebsite)`</sub>
+Personal site and interactive CV. Flask + Jinja with a custom editorial
+front-end — grain overlay, custom cursor, animated SVG focus visuals,
+Leaflet map, and a server-side PDF export of the résumé via WeasyPrint.
 
-## 🔗 Connect with Me
+<br />
 
-<p align="center">
-  <a href="mailto:muaaz@bdear.info">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+###### — ELSEWHERE
 
----
+[`bdear.info`](https://bdear.info) &nbsp;·&nbsp; [`linkedin`](https://www.linkedin.com/in/muaaz-bdear-8b251019a/) &nbsp;·&nbsp; [`github`](https://github.com/Mizoo1) &nbsp;·&nbsp; [`muaaz@bdear.info`](mailto:muaaz@bdear.info)
 
-<p align="center">
-  <i>⭐️ From <a href="https://github.com/Mizoo1">Mizoo</a></i>
-</p>
+<br />
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Mizoo1&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0a0a0a&title_color=d4ff00&icon_color=d4ff00&text_color=f5f3ef&hide=issues" />
+  <img alt="Mizoo1 GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Mizoo1&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=556b00&icon_color=556b00&text_color=2a2a2a&hide=issues" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Mizoo1&layout=compact&hide_border=true&langs_count=8&bg_color=0a0a0a&title_color=d4ff00&text_color=f5f3ef" />
+  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mizoo1&layout=compact&hide_border=true&langs_count=8&title_color=556b00&text_color=2a2a2a" />
+</picture>
+
+<br /><br />
+
+<sub><code>// last build · auto · made with care in bremen</code></sub>
