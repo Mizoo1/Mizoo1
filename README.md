@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Mizoo
-### Full-Stack Developer | Software Engineer | Tech Enthusiast
+### Backend Developer | Data Engineer | Software Engineer
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Always+learning+new+technologies;Building+innovative+solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Backend+Developer;Data+Engineer;Building+scalable+data+pipelines" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -12,24 +12,14 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently working on innovative web applications and backend systems
+- 🔭 Currently working on backend services and data engineering pipelines
 - 🌱 Constantly learning and exploring new technologies
 - 👯 Open to collaborate on exciting projects
-- 💬 Ask me about **React, Python, Java, Spring Boot, Django**
+- 💬 Ask me about **Python, Java, Spring Boot, Django, Data Pipelines**
 - 📫 How to reach me: **muaaz@bdear.info**
 - ⚡ Fun fact: I love solving complex problems with elegant code
 
 ## 🛠️ Tech Stack
-
-### Frontend
-<p align="left">
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-</p>
 
 ### Backend
 <p align="left">
@@ -39,6 +29,17 @@
   <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
   <img src="https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+</p>
+
+### Data Engineering
+<p align="left">
+  <img src="https://img.shields.io/badge/-Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark" />
+  <img src="https://img.shields.io/badge/-Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Apache Airflow" />
+  <img src="https://img.shields.io/badge/-Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Apache Kafka" />
+  <img src="https://img.shields.io/badge/-dbt-FF694A?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt" />
+  <img src="https://img.shields.io/badge/-BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white" alt="BigQuery" />
+  <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
 </p>
 
 ### Database & Tools
@@ -92,25 +93,8 @@
 ## 🔗 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:muaaz@bdear.info">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://yourportfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
-
-## 💰 Support My Work
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/yourusername" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" width="210">
   </a>
 </p>
 
