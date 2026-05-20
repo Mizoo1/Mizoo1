@@ -53,7 +53,7 @@ Leaflet map, and a server-side PDF export of the résumé via WeasyPrint.
 
 ###### — ELSEWHERE
 
-[`bdear.info`](https://bdear.info) &nbsp;·&nbsp; [`linkedin`](https://www.linkedin.com/in/muaaz-bdear-8b251019a/) &nbsp;·&nbsp; [`github`](https://github.com/Mizoo1) &nbsp;·&nbsp; [`muaaz@bdear.info`](mailto:muaaz@bdear.info)
+[`bdear.info`](https://muaaz.bdear.info) &nbsp;·&nbsp; [`linkedin`](https://www.linkedin.com/in/muaaz-bdear-8b251019a/) &nbsp;·&nbsp; [`github`](https://github.com/Mizoo1) &nbsp;·&nbsp; [`muaaz@bdear.info`](mailto:muaaz@bdear.info)
 
 <br />
 
