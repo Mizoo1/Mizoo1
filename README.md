@@ -67,4 +67,4 @@ Leaflet map, and a server-side PDF export of the résumé via WeasyPrint.
 
 <br /><br />
 
-<sub><code>// last build · auto · made with care in bremen</code></sub>
+<sub><code>// last build · auto · made with Liebe</code></sub>
